@@ -1,0 +1,19 @@
+.lights {
+  margin-top: 30px;
+  width: 200px;
+  height: 200px;
+  border: 30px solid black;
+  border-radius: 50%;
+}
+
+.lights_red {
+  background-color: red;
+}
+
+.lights_yellow {
+  background-color: yellow;
+}
+
+.lights_green {
+  background-color: green;
+}
